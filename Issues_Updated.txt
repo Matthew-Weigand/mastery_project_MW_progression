@@ -3,6 +3,7 @@
 4) Creating reservation allowing guest to enter and store email address is finished, need one or two validations for update, but works in happy path 
 5) When creating a reservation automatically assign a reservation ID in repo
 6) When creating or updating reservation display the total cost of the reservation in the summary confirmation
+7) Don't allow a reservation start date to the end date
 8) When updating or cancelling a reservation display location's reservations befrom prompting user to select reservation ID
 10) Display information about reservation when updating
 12) Update the 'ReservationService.cancel() method to return Result<Reservation>
