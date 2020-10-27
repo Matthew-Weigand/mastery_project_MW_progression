@@ -1,0 +1,5 @@
+1) Added App class to learn.mastery
+3) When creating/updating/cancellinga reservation, allow user to provide email
+6) When creating or updating reservation display the total cost of the reservation in the summary confirmation
+8) When updating or cancelling a reservation display location's reservations befrom prompting user to select reservation ID
+12) Update the 'ReservationService.cancel() method to return Result<Reservation>
